@@ -1,2 +1,2 @@
 # ai-ml-learning-portfolio
-My journey into Artificial Intelligence and Machine Learning. A collection of Python projects, data science experiments, machine learning models, deep learning applications, and Generative AI projects
+Exploring Artificial Intelligence, Machine Learning, Data Science and Generative AI using Python and Jupyter Notebook. Documenting my learning journey through practical projects and experiments.
